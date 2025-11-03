@@ -1,0 +1,6 @@
+streamlit
+OpenAI
+dotenv
+sqlite3
+os
+
